@@ -1,0 +1,26 @@
+{
+  "name": "raj-currency-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashingaryan07/raj-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Raj Aryan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dashingaryan07/raj-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/dashingaryan07/raj-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
